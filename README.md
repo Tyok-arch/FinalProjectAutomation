@@ -1,6 +1,6 @@
 # Final Project Automation
 
-![CI](https://github.com/Tyok-arch/Finalprojeck/actions/workflows/automation.yml/badge.svg)
+![CI](https://github.com/Tyok-arch/FinalProjectAutomation/actions/workflows/automation.yml/badge.svg)
 
 ![Java](https://img.shields.io/badge/Java-17-blue)
 ![Selenium](https://img.shields.io/badge/Selenium-4.33-brightgreen)
