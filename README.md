@@ -1,8 +1,12 @@
 # Final Project Automation
 
-![CI](https://github.com/Tyok-arch/FinalProjectAutomation/actions/workflows/automation.yml/badge.svg)
+![CI](https://github.com/Tyok-arch/Finalprojeck/actions/workflows/automation.yml/badge.svg)
 
-QA Automation Testing Project menggunakan **Selenium**, **RestAssured**, **GraphQL**, **Cucumber**, **JUnit**, dan **Maven**.
+![Java](https://img.shields.io/badge/Java-17-blue)
+![Selenium](https://img.shields.io/badge/Selenium-4.33-brightgreen)
+![RestAssured](https://img.shields.io/badge/REST--Assured-5.5.1-orange)
+![Cucumber](https://img.shields.io/badge/Cucumber-7.22-green)
+![JUnit](https://img.shields.io/badge/JUnit-4-red)
 
 Project ini dibuat sebagai Final Project Software Quality Assurance untuk melakukan pengujian Manual Testing dan Automation Testing pada aplikasi web.
 
