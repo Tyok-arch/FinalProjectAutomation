@@ -79,6 +79,7 @@
             <version>2.19.2</version>
         </dependency>
 
+
     </dependencies>
 
     <build>
@@ -114,10 +115,12 @@
                 <configuration>
 
                     <includes>
-
                         <include>**/*Runner.java</include>
-
                     </includes>
+
+                    <systemPropertyVariables>
+                        <cucumber.publish.quiet>true</cucumber.publish.quiet>
+                    </systemPropertyVariables>
 
                 </configuration>
 
