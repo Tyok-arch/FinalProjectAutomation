@@ -1,5 +1,11 @@
 # Final Project Automation
 
+# Final Project Automation
+
+![CI](https://github.com/Tyok-arch/FinalProjectAutomation/actions/workflows/automation.yml/badge.svg)
+
+QA Automation Testing Project menggunakan Selenium, RestAssured, GraphQL, Cucumber, JUnit, dan Maven.
+
 QA Automation Testing Project menggunakan **Selenium**, **RestAssured**, **GraphQL**, **Cucumber**, **JUnit**, dan **Maven**.
 
 Project ini dibuat sebagai Final Project Software Quality Assurance untuk melakukan pengujian Manual Testing dan Automation Testing pada aplikasi web.
